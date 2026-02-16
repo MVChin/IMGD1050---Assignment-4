@@ -36,7 +36,7 @@ function setup() {
   createCanvas(500, 500);
   strokeWeight(2);
   stroke(0);
-  frameRate(1);
+  frameRate(60);
   background(200);
   angleMode(DEGREES);
 }
